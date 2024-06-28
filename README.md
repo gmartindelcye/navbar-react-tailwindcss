@@ -6,7 +6,7 @@ Uses Tailwindcss, react-icons, reactscroll and aos@next
 
 ```bash
 npm install
-npm install -D tailwindcss postcss auoprefixer
+npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm i react-icons --save
 npm i react-scroll
