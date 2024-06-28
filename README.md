@@ -13,4 +13,4 @@ npm i react-scroll
 npm i install --save aos@next
 ```
 
-Tailwindcss files are ready configured. No additional configuration is needed.
+Tailwindcss files are already configured. No additional configuration is needed.
